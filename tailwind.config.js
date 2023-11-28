@@ -7,6 +7,7 @@ module.exports = {
         bg_main: "url('asset/Background.svg')",
         bg_cta: "url('asset/cta.svg')",
         bg_service: "url('asset/services/banner.svg')",
+        bg_bot: "url('asset/services/bot-service.svg')",
       },
       fontFamily: {
         Inter: "'Inter', sans-serif",
@@ -16,6 +17,7 @@ module.exports = {
       colors: {
         primary: "#0152A8",
         green: "#0fe3af",
+        greyy: "#F1F1F1",
       },
       textColor: {
         header1: "#143450",
