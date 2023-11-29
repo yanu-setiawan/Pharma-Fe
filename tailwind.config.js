@@ -8,6 +8,9 @@ module.exports = {
         bg_cta: "url('asset/cta.svg')",
         bg_service: "url('asset/services/banner.svg')",
         bg_bot: "url('asset/services/bot-service.svg')",
+        bg_blog: "url('asset/blog/bg2.svg')",
+        bg_team: "url('asset/team/Team.svg')",
+        bg_Contact: "url('asset/contactUs.svg')",
       },
       fontFamily: {
         Inter: "'Inter', sans-serif",
